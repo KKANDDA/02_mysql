@@ -35,5 +35,6 @@ INSERT INTO reservations (user_name, movie_id, seats_reserved) VALUES
 2. 가장 많이 예약된 영화는 어떤거고 몇석이 되었나요?
 3. 특정 영화의 남은 좌석 수를 확인 해주세요 (아무거나 골라서)
 
-*/
 
+
+*/
